@@ -1,0 +1,8 @@
+3D FRONT
+    - Unavailable
+
+SceneNet-RGBD
+    - https://www.doc.ic.ac.uk/~bjm113/scenenet_data/SceneNet-train.tar.gz
+
+NYU Depth V2
+    - https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html

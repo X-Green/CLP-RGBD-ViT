@@ -1,0 +1,4 @@
+Instead of using positional encoder, we propose Parallel Depth ViT and concat or add to the original ViT output. We will use the same trainning method as DepthLM(e.g. normalized focal length).
+
+方向1：We will compare the performance to other approaches such as DepthLM, SpatalLM, SDVLM, hoping to enhance 3D task performance under same benchmark.
+方向2：We will focus on Depth-Only Modality. The significance will become using Contrastive Learning to migrate what is learnt from RGB data to Depth ViT. Downstream Tasks include 3D Object Recognizing/ Positioning using only depth input.
